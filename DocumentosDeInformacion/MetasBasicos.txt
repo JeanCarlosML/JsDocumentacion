@@ -1,0 +1,5 @@
+Etiquetas meta
+<meta name="description" content="Q10">
+<meta name="author" content="Q10 Soluciones S.A.S.">
+<meta name="version" content="1.0.0.0">
+<meta name="accept-language" content="es-PE">

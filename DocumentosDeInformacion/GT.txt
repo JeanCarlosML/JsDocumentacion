@@ -1,0 +1,37 @@
+touch vacio.txt crear archivo txt
+cat vacio.txt contenido de txt
+history revision de comandos
+!72 y repite comandos usados
+rm vacio.txt borrar archivo
+git init
+git add
+git commit -am "asds"
+git commit -a
+git add .   agregatodalacarpeta
+git status
+git log historia.txt
+git show historia.txt
+git diff
+git diff sadasdas asdasdasdas
+git commit -m "informacion"
+git config --list //listadecaract
+git rm historia.txt
+git rm --cached historia.txt
+git config --global
+git reset askndaskdasdas
+git checkout asdasdasdasd . o name
+git branch asdasd // cerar rama
+git checkout rama// pasa a la rama
+git merge 
+git remote add origin https:asdadasd
+git remote remove origin
+git remote
+git remote -v
+git push origin master
+git pull origin master --allow-unrelated-histories
+
+AGREGANDO LLAVE SSH
+ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa <!--Agregar al sistema llave-->
+

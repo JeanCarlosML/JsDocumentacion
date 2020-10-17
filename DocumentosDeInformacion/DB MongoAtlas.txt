@@ -1,0 +1,16 @@
+
+
+Cluster direccion URI para coneccion
+mongodb+srv://<username>:<password>@cluster0.byux7.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+Cluster
+cluster0.byux7.mongodb.net
+autenticacion username password
+contraseña de akanza
+2efeLdwzTKHATD5
+permisos todos
+
+contraseña de jeanxxjean
+rTsvOnr1JUJiEqcf
+permisos todos
